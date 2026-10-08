@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">NetNode Inspector</string>
+    <string name="default_host">http://192.168.1.1:8000</string>
+    <string name="status_server_unavailable">Error 503: Service Unavailable</string>
+    <string name="status_request_failed">Request failed. Check network connection to host.</string>
+</resources>
